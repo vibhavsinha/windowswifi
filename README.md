@@ -6,6 +6,7 @@ windows wifi
 A simple script for running netsh command in windows. Just unpack and run the bat file.
 
 Running this script shall ask for administrator rights, give it. It's safe. Every second program in windows ask for it.
+The device on which the network is created might not appear to be connected to any wireless network. It's okay.
 
 **How to share internet over this network?**
 
@@ -17,4 +18,4 @@ Running this script shall ask for administrator rights, give it. It's safe. Ever
 5. Select the first option and uncheck the second one.
 6. From the drop down, choose the newly created hosted network( the one in #3), and select ok.
 
-*Connected computers might need to re-connect to the network after the above steps*
+*Connected devices might need to re-connect to the network after the above steps*
