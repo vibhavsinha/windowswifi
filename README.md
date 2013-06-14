@@ -3,11 +3,9 @@ windows wifi
 
 *works on windows xp to windows 8*
 
-A simple script for running netsh command in windows.
+A simple script for running netsh command in windows. Just unpack and run the bat file.
 
 Running this script shall ask for administrator rights, give it. It's safe. Every second program in windows ask for it.
-
-This program shall create a new network adpater.
 
 **How to share internet over this network?**
 
